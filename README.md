@@ -1,1 +1,2 @@
 # Powerbi
+The HR Analytics Dashboard provides insights into key workforce metrics, including employee demographics, turnover rates, and performance trends. It helps HR teams track recruitment efficiency, training effectiveness, and diversity metrics. Interactive visualizations enable decision-makers to analyze data by department, location, or tenure. This dashboard supports strategic workforce planning and enhances overall organizational performance.
